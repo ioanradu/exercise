@@ -5,8 +5,6 @@ public class H
     {
         System.out.println("Hello");
 
-    qqqq
-
     }
 }
-zzzzz
+
