@@ -3,9 +3,6 @@ public class H
 
     public static void main(String[] args)
     {
-        System.out.println("Hello");aaaa
-            sdsdsd
+        System.out.println("Hello");
     }
-}QQQQQQQQQQQQQQQQQQQQQQQ
-sdasasasas
-aAaA
+}
